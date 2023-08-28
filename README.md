@@ -5,4 +5,4 @@
 
 
 #deployment link
-https://insta-clone-api-qds0.onrender.com
+https://myhosted-insta.cyclic.app
